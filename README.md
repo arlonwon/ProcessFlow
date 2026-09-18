@@ -1,7 +1,16 @@
 # 功能流程图编辑器（ProcessFlowDesigner）
 
-把一个设备 / 一条产线的**动作顺序**画成时间轴上的流程条 —— 一根轴一行，流程条按起止时间排布，
-流程之间用链接表达"谁先谁后、谁等谁"。做**作业循环分析、节拍分析、动作时序梳理**的工程人员用它。
+[![下载](https://img.shields.io/badge/%E4%B8%8B%E8%BD%BD-%E5%AE%89%E8%A3%85%E5%8C%85-2ea44f?style=for-the-badge)](../../releases/latest)
+[![平台](https://img.shields.io/badge/Windows-10%20%2F%2011%20x64-0078D6?style=for-the-badge)](#下载与安装)
+[![体积](https://img.shields.io/badge/44%20MB-%E8%87%AA%E5%B8%A6%E8%BF%90%E8%A1%8C%E7%8E%AF%E5%A2%83-8957e5?style=for-the-badge)](#下载与安装)
+
+> 把设备 / 产线的**动作顺序**画成时间轴上的流程条 ——
+> 一眼看出**总时长**、**哪一步卡着**、**哪几步能并行**。
+
+**➜ [点这里下载最新版](../../releases/latest)（44 MB · 双击安装 · 不需要装 .NET · 不需要管理员权限）**
+
+适用：**作业循环分析 · 节拍分析 · 动作时序梳理 · 工艺文件配图**
+（工程机械 / 产线设备 / PLC 时序 / 设备动作说明书）
 
 Windows 桌面软件（Windows 10 / 11，64 位）。**本仓库只提供安装包，不含源码。**
 
